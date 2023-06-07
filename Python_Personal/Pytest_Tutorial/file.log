@@ -1,0 +1,11 @@
+2023-04-11 00:09:25,496 :DEBUG :Pytest_Tutorial.test_logging :a message statement
+2023-04-11 00:09:25,496 :INFO :Pytest_Tutorial.test_logging :information logging
+2023-04-11 00:09:25,496 :WARNING :Pytest_Tutorial.test_logging :warning warning!!
+2023-04-11 00:09:25,496 :ERROR :Pytest_Tutorial.test_logging :erorr mesage
+2023-04-11 00:09:25,496 :CRITICAL :Pytest_Tutorial.test_logging :critical error
+2023-04-11 00:55:35,439 :INFO :Pytest_Tutorial.test_logging :hey
+2023-04-11 00:55:35,439 :INFO :Pytest_Tutorial.test_logging :ghosh
+2023-04-11 00:57:22,296 :INFO :test_exm2 :hey
+2023-04-11 00:57:22,297 :INFO :test_exm2 :ghosh
+2023-04-11 00:59:19,571 :INFO :test_exm2 :hey
+2023-04-11 00:59:19,572 :INFO :test_exm2 :ghosh

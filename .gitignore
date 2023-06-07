@@ -1,0 +1,7 @@
+#ignore iml files
+**/Python.iml
+**/__init__.py
+*.pyc
+
+#ignore .idea folder
+**/.idea
